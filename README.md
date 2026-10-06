@@ -140,20 +140,20 @@ From analysis to action.
 ## Dashboard Screenshots
 
 ### Executive Overview
-![Executive Overview]![Uploading dashboard_1_executive_overview.png…]()
+<img width="649" height="368" alt="dashboard_1_executive_overview" src="https://github.com/user-attachments/assets/dbed519a-7cab-44d4-b8e7-92e48ecef0c6" />
 
 
 ### Route Profitability Analysis
-![Route Profitability Analysis](<img width="653" height="367" alt="dashboard_2_route_profitability" src="https://github.com/user-attachments/assets/6773f75a-44a0-4d40-aab4-ab0af8c2fa4d" />
-)
+<img width="653" height="367" alt="dashboard_2_route_profitability" src="https://github.com/user-attachments/assets/21ca421f-994d-4fe2-8627-19e7b155aa2a" />
+
 
 ### Network & Demand Analysis
-![Network & Demand Analysis](<img width="651" height="369" alt="dashboard_3_network_demand" src="https://github.com/user-attachments/assets/80e86c7c-a8b1-4c6d-913a-f0e2271be222" />
-)
+<img width="651" height="369" alt="dashboard_3_network_demand" src="https://github.com/user-attachments/assets/60e96bc3-0c3b-4ade-bdf6-a2efb9e82cbf" />
+
 
 ### Route Optimization & Recommendations
-![Route Optimization & Recommendations](<img width="652" height="366" alt="dashboard_4_route_optimization" src="https://github.com/user-attachments/assets/b31b2c8b-5298-4cfe-bf1b-0f3b70243367" />
-)
+<img width="652" height="366" alt="dashboard_4_route_optimization" src="https://github.com/user-attachments/assets/c74c6618-3f00-45a4-b39c-023945fc758f" />
+
 
 ## Repository Structure
 
