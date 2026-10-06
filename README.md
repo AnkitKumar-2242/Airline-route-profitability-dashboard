@@ -1,9 +1,3 @@
-# Airline-route-profitability-dashboard
-Power BI dashboard analysing 2024 profitability, demand and load factor across 30 routes of a single airline, with a DAX-based Expand / Maintain / Improve / Reduce recommendation for every route.
-
-
-
-
 # Airline Route Profitability & Network Optimization Dashboard (Power BI)
 
 > A 4-page Power BI dashboard that shows which of an airline's 30 routes make money, which lose money, and what to do about each one, using 2024 flight data.
@@ -139,19 +133,19 @@ From analysis to action.
 
 ## Dashboard Screenshots
 
-### Executive Overview
+### Dashboard-1 Executive Overview
 <img width="649" height="368" alt="dashboard_1_executive_overview" src="https://github.com/user-attachments/assets/dbed519a-7cab-44d4-b8e7-92e48ecef0c6" />
 
 
-### Route Profitability Analysis
+### Dashboard-2 Route Profitability Analysis
 <img width="653" height="367" alt="dashboard_2_route_profitability" src="https://github.com/user-attachments/assets/21ca421f-994d-4fe2-8627-19e7b155aa2a" />
 
 
-### Network & Demand Analysis
+### Dashboard-3 Network & Demand Analysis
 <img width="651" height="369" alt="dashboard_3_network_demand" src="https://github.com/user-attachments/assets/60e96bc3-0c3b-4ade-bdf6-a2efb9e82cbf" />
 
 
-### Route Optimization & Recommendations
+### Dashboard-4 Route Optimization & Recommendations
 <img width="652" height="366" alt="dashboard_4_route_optimization" src="https://github.com/user-attachments/assets/c74c6618-3f00-45a4-b39c-023945fc758f" />
 
 
