@@ -160,15 +160,17 @@ From analysis to action.
 ```
 .
 ├── README.md
-├── airline_route_profitability_dashboard_2024.pbix
+├── Airline_Route_Optimization_Dashboard.pbix
 ├── images/
-│   ├── 01_executive_overview.png
-│   ├── 02_route_profitability_analysis.png
-│   ├── 03_network_demand_analysis.png
-│   └── 04_route_optimization_recommendations.png
-├── dax/
-│   └── measures.md            (optional: all DAX in one file)
-└── airline_route_profitability_dashboard_2024.pdf   (optional)
+│   ├── dashboard_1_executive_overview.png
+│   ├── dashboard_2_route_profitability.png
+│   ├── dashboard_3_network_demand.png
+│   └── dashboard_4_route_optimization.png
+├── dataset/
+│   └── airline_route_profitability.csv
+|   └── processed_data.csv
+|   └── readme
+└── airline_route_analysis_queries.sql
 ```
 
 ## Dataset & Data Source
