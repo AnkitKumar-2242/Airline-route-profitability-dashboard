@@ -140,8 +140,8 @@ From analysis to action.
 ## Dashboard Screenshots
 
 ### Executive Overview
-![Executive Overview](<img width="649" height="368" alt="dashboard_1_executive_overview" src="https://github.com/user-attachments/assets/726ee8f0-2630-4217-bf00-06831aa801cd" />
-)
+![Executive Overview]![Uploading dashboard_1_executive_overview.png…]()
+
 
 ### Route Profitability Analysis
 ![Route Profitability Analysis](<img width="653" height="367" alt="dashboard_2_route_profitability" src="https://github.com/user-attachments/assets/6773f75a-44a0-4d40-aab4-ab0af8c2fa4d" />
