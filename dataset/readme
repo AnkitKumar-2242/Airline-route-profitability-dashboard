@@ -1,0 +1,66 @@
+# 📊 Dataset
+
+This folder contains the datasets used in the **Route Profitability & Network Optimization** project.
+
+The dataset workflow consists of two main stages:
+
+1. **Raw Dataset**
+2. **Processed Dataset**
+
+---
+
+## 📁 Dataset Files
+
+### 1. Raw Dataset
+
+The raw dataset is the original airline flight dataset used as the starting point for this project.
+
+It contains the original flight-level data used for data validation, cleaning, transformation, and analysis.
+
+The raw dataset was first loaded into **MySQL** for data-quality checks and preparation.
+
+---
+
+### 2. Processed Dataset
+
+The processed dataset is the cleaned and transformed version of the raw dataset.
+
+It was created after applying the SQL validation and transformation queries used in this project.
+
+Additional analytical columns were added to support the Power BI analysis and dashboard development.
+
+### Additional Columns
+
+The processed dataset includes additional calculated fields such as:
+
+- **Profit_Per_Passenger** — Profit generated per passenger
+- **Revenue_Per_Passenger** — Revenue generated per passenger
+- **Cost_Per_Passenger** — Cost incurred per passenger
+- **Load_Factor_Percentage** — Load factor expressed as a percentage
+- **Profitability_Status** — Classifies flights as Profitable, Loss-Making, or Break-Even
+- **Profitability_Level** — Classifies profitability into High, Medium, or Low
+
+---
+
+## 🔄 Data Processing Workflow
+
+The overall data flow used in the project is:
+
+```text
+Raw Dataset
+     ↓
+Load Data into MySQL
+     ↓
+Data Validation
+     ↓
+Data Cleaning
+     ↓
+Data Transformation
+     ↓
+Create Processed Dataset
+     ↓
+Power BI Data Model
+     ↓
+DAX Measures & Calculations
+     ↓
+Interactive Dashboards
