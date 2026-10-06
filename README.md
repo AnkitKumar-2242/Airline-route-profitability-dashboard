@@ -154,7 +154,7 @@ From analysis to action.
 ```
 .
 ├── README.md
-├── Airline_Route_Optimization_Dashboard.pbix
+├── Airline_Route_Analysis_Dashboard.pbix
 ├── images/
 │   ├── dashboard_1_executive_overview.png
 │   ├── dashboard_2_route_profitability.png
